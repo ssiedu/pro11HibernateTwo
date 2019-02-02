@@ -10,6 +10,8 @@ public class Student {
 	private String name;
 	private String branch;
 	private int sem;
+	private Address saddress;
+	
 	public int getRno() {
 		return rno;
 	}
